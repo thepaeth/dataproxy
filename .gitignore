@@ -8,6 +8,7 @@ syntax:glob
 *.pyc
 *.egg-info
 *.db
+.vscode/
 ez_setup
 *~
 build/
